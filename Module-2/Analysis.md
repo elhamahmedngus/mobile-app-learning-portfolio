@@ -1,2 +1,2 @@
 # Analysis for Module 2
-
+In Module 2, I built on the basics by adding a birthday greeting feature to my Android app, showing how user input can be turned into meaningful output. This step highlights my ability to connect layouts with real logic, making the app more interactive and personal. The code and screenshots included in this module give clear proof of progress, showing that I can grow an app step by step while keeping it simple, practical, and user‑friendly.
