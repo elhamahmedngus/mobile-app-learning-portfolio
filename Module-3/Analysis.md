@@ -1,2 +1,2 @@
 # Analysis for Module 3
-This file will contain my analysis for Module 3.
+In Module 3, I learned how to make my app more interactive by adding a button and connecting it with actions. This taught me that UI is not just about how things look, but also about how users can interact with it. I practiced using Composables like Button and Image, and I understood how remember helps store values in memory so the app can respond when something changes. I also learned the importance of accessibility with contentDescription, and how alignment makes layouts feel organized. Overall, this module showed me how small changes, like adding a button, can make an app feel alive and user‑friendly.
